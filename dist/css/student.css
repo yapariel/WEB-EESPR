@@ -1,0 +1,41 @@
+body {
+    padding-top: 50px;
+}
+
+@media (max-width: 1199px) {
+    .navbar .navbar-brand {
+        height: 50px !important;
+        padding: 2px 0px !important;
+    }
+}
+
+.help-inline {
+    font-size: 12px;
+    color: red;
+    font-style: italic;
+}
+
+.question {
+    display: none;
+}
+
+.first {
+    display: block;
+}
+
+.container .jumbotron {
+    padding: 20px 30px !important;
+}
+
+.radio:hover {
+    background-color: #fff !important;
+    background-image: none !important;
+    border: none !important;
+}
+
+.jumbotron p{
+	font-size: 16px;
+}
+.alert {
+    margin-bottom: 0px;
+}

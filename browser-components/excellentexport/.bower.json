@@ -1,0 +1,38 @@
+{
+  "name": "excellentexport",
+  "main": "excellentexport.js",
+  "homepage": "http://jordiburgos.com/post/2014/excellentexport-javascript-export-to-excel-csv.html",
+  "authors": [
+    "Jordi Burgos <jordiburgos@gmail.com>"
+  ],
+  "description": "Client side JavaScript export to Excel or CSV",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "excel",
+    "export",
+    "csv",
+    "javascript",
+    "client",
+    "side"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "aab78f4173",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "aab78f417393d80620f47a02bc4da17a79b221eb"
+  },
+  "_source": "git://github.com/jmaister/excellentexport.git",
+  "_target": "*",
+  "_originalSource": "excellentexport",
+  "_direct": true
+}

@@ -1,0 +1,18 @@
+.dashboard {
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.panel {
+  width: 200px;
+  height: 100px;
+}
+
+.panel-body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: large;
+  color: blue;
+}

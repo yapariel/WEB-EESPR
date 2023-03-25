@@ -1,0 +1,16 @@
+p {
+  font-family: Arial;
+}
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(30, 30, 83, 1) 0%,
+    rgba(0, 213, 255, 1) 0%,
+    rgba(195, 195, 195, 1) 0%,
+    rgba(255, 255, 255, 1) 56%
+  );
+}

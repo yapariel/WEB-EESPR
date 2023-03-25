@@ -1,0 +1,67 @@
+.panel-body {
+  border-radius: 100px;
+}
+body {
+  padding-top: 150px;
+  padding-bottom: 0px;
+  background-color: #eee;
+  /* background: rgb(46,107,159);
+  background: linear-gradient(90deg, rgba(46,107,159,1) 9%, rgba(46,107,159,1) 46%, rgba(46,107,159,1) 100%);*/
+}
+p {
+  text-align: center;
+  font-weight: bold;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #337ab7;
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+  font-weight: bold;
+}
+
+/* LOGIN PAGE CSS */
+.panel-body {
+  border-radius: 100px;
+}
+body {
+  padding-top: 150px;
+  padding-bottom: 0px;
+  /* background-color: #eee; */
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(30, 30, 83, 1) 0%,
+    rgba(0, 213, 255, 1) 0%,
+    rgba(195, 195, 195, 1) 0%,
+    rgba(255, 255, 255, 1) 56%
+  );
+}
+p {
+  text-align: center;
+  font-weight: bold;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #337ab7;
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+  font-weight: bold;
+}
+
+.terms-privacy {
+  font-size: small;
+}
