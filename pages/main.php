@@ -20,7 +20,7 @@ else if(isset($_SESSION['Level']) === "Student"){
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" type="image/x-icon" href="../img/eespr.ico">
-    <title>EESPR</title>
+    <title>PHYCHOMETRICIAN</title>
 
     <link href="../browser-components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="../browser-components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
@@ -45,11 +45,9 @@ else if(isset($_SESSION['Level']) === "Student"){
                 </div>
             </div>
     </div>
-    
     <script src="../browser-components/jquery/dist/jquery.min.js"></script>
     <script src="../browser-components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="../browser-components/metisMenu/dist/metisMenu.min.js"></script>
     <script src="../dist/js/sb-admin-2.js"></script>
 </body>
-
 </html>

@@ -10,7 +10,7 @@
 <div class="navbar-default sidebar" role="navigation">
     <div class="sidebar-nav navbar-collapse">
         <ul class="nav" id="side-menu">
-            <?php if ($_SESSION['Level'] !== 'Student') { ?>
+            <?php if (isset($_SESSION['Level']) && $_SESSION['Level'] !== 'Student') {  ?>
                 <li>
                     <a href="main.php"><i class="fa fa-tachometer"></i> Dashboard</a>
                 </li>

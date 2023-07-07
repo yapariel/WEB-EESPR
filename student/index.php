@@ -17,6 +17,7 @@
             <h1 class="text-center"><strong>HELLO STUDENT</strong></h1>
             <br>
             <a href="login.php" class="btn btn-primary btn-lg btn-block">LOGIN</a>
+            <a href="index.php" class="btn btn-light btn-lg btn-block"><p>Ask your Admin for Account</p></a>
             <br>
         </div>
     </div>
